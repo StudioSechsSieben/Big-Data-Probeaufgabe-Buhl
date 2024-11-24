@@ -4,8 +4,7 @@
 Die untenstehende Aufgabe wurde in Python umgesetzt und in diesem GitHub hochgeladen.
 Die einzelnen .py Dateien enthalten ebenfalls Kommentare, die den Code beschreiben.
 Die Main Datei kann wie gewohnt ausgeführt werden, es sind keine Besonderheiten zu beachten.
-Für Rückfragen: marcel_nitsche@web.de.
-© Marcel Nitsche 24.11.2024
+
 
 ## Aufgabe:
 Schreibe ein Programm zur Berechnung von Primzahlen.
